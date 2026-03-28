@@ -24,3 +24,7 @@ Built a Tic Tac Toe game with an unbeatable AI using the Minimax algorithm, ensu
 * Recursion & Backtracking
 * Minimax Algorithm
 * Game Logic Design
+
+### 🔹 Screenshot
+
+![Tic Tac Toe AI Run](https://github.com/Kerolos247/TicTacToe-Minimax-Visualizer/raw/master/ImageRun/Screenshot%202026-03-28%20115319.png)
