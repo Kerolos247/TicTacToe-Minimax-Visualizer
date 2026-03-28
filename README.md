@@ -1,25 +1,26 @@
-🧠 Tic Tac Toe AI – Minimax (C# Windows Forms)
+## 🧠 Tic Tac Toe AI – Minimax
 
-This project is a C# Windows Forms application that implements the Minimax algorithm to create an unbeatable AI for the classic Tic Tac Toe (X-O) game.
+Built a Tic Tac Toe game with an unbeatable AI using the Minimax algorithm, ensuring optimal decision-making in every move.
 
-The user plays against the computer, and the AI always chooses the optimal move.
+### 🔹 Key Features
 
-The application also provides a full Minimax decision tree visualization, allowing users to see:
+* Implemented the Minimax algorithm with recursion and backtracking to evaluate all possible game states
+* Developed an AI that always selects the optimal move, guaranteeing the best possible outcome (win or draw)
+* Built a full decision tree visualization showing:
 
-All possible moves evaluated by the AI
+  * All evaluated moves
+  * Score calculation for each state
+  * Final decision path
 
-The score of each move
+### 🔹 Architecture & Logic
 
-How recursion and backtracking determine the final decision
+* Designed recursive game state evaluation with clear separation between game logic and UI
+* Applied algorithmic thinking to simulate future moves and outcomes
+* Structured the code to handle board state, player turns, and scoring efficiently
 
-🎯 The AI is mathematically unbeatable — the best possible outcome for the player is a draw.
+### 🔹 Technologies & Concepts
 
-🛠 Technologies Used
-
-C#
-
-Windows Forms
-
-Recursion
-
-Minimax Algorithm
+* C#, Windows Forms
+* Recursion & Backtracking
+* Minimax Algorithm
+* Game Logic Design
