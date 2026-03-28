@@ -57,7 +57,7 @@
     <Compile Include="UI\Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WinnerResult.cs" />
+    <Compile Include="Models\WinnerResult.cs" />
     <Compile Include="UI\TreeDrawer.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
